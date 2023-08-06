@@ -28,7 +28,7 @@ your team will design a new marketing strategy to convert casual riders into ann
 must approve your recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 
-<ins>Characters and team:
+**<ins>Characters and team:**
 
 * **Lily Moreno:** The director of marketing and your manager. Moreno is responsible for the development of campaigns
 and initiatives to promote the bike-share program. These may include email, social media, and other channels.
@@ -41,7 +41,7 @@ achieve them.
 * **Cyclistic executive team:** The notoriously detail-oriented executive team will decide whether to approve the
 recommended marketing program.
 
-<ins>Main goal
+**<ins>Main goal**
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to
 do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why
