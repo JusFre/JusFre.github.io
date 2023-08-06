@@ -18,21 +18,21 @@ commute to work each day.
 
 ## Scenario
 
-You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
+I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
-your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,
-your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives
-must approve your recommendations, so they must be backed up with compelling data insights and professional data
+my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,
+my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives
+must approve my recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 
 #### <ins>Characters and team:
 
-* **Lily Moreno:** The director of marketing and your manager. Moreno is responsible for the development of campaigns
+* **Lily Moreno:** The director of marketing and my manager. Moreno is responsible for the development of campaigns
 and initiatives to promote the bike-share program. These may include email, social media, and other channels.
 
 * **Cyclistic marketing analytics team:** A team of data analysts who are responsible for collecting, analyzing, and
-reporting data that helps guide Cyclistic marketing strategy. You joined this team six months ago and have been busy
-learning about Cyclistic’s mission and business goals — as well as how you, as a junior data analyst, can help Cyclistic
+reporting data that helps guide Cyclistic marketing strategy. I joined this team six months ago and have been busy
+learning about Cyclistic’s mission and business goals — as well as how I, as a junior data analyst, can help Cyclistic
 achieve them.
 
 * **Cyclistic executive team:** The notoriously detail-oriented executive team will decide whether to approve the
@@ -49,7 +49,12 @@ To approach this case study, I will adhere to the following data analysis steps:
 
 ## Ask
 
-Moreno has assigned you the first question to answer: **How do annual members and casual riders use Cyclistic bikes
+Three questions will guide the future marketing program:
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+Moreno has assigned me the first question to answer: **How do annual members and casual riders use Cyclistic bikes
 differently?**
 
 
@@ -63,3 +68,4 @@ differently?**
 * Cited: Yes, the data is properly referenced.
 
 For my project, I will be utilizing the [public dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) which is made accessible by Motivate International Inc. under a specific [license](https://ride.divvybikes.com/data-license-agreement). I have downloaded the data for the period between July 2022 and June 2023. The data is in CSV (comma-separated values) format and comprises a total of 13 columns. Then, I converted all CSV files to Excel format.
+![Excel formatted files](https://github.com/JusFre/JusFre.github.io/assets/126374312/de2333d0-b86e-442c-b8d7-0ce2b4df150c)
