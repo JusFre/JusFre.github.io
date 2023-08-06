@@ -170,7 +170,7 @@ Key tasks:
 I used pivot tables to sort, filter, and condense only the most essential data, then created graphs and pivot tables to achieve stakeholder deliverables. 
 
 
-![Excel Summary Data Visual.png](Excel Summary Data Visual.png)
-[excel_summary_data_visual.png](Excel Summary Data Visual.png)
+![excel_summary_tripdata_visual.png](excel_summary_tripdata_visual.png)
+[excel_summary_tripdata_visual.png](excel_summary_tripdata_visual.png)
 
 
