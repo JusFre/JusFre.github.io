@@ -99,9 +99,6 @@ Now all files have been conveniently stored and organized.
 # Process
 
 
-What tools are you choosing and why?
-● Have you ensured your data’s integrity?
-● What steps have you taken to ensure that your data is clean?
 ● How can you verify that your data is clean and ready to analyze?
 ● Have you documented your cleaning process so you can review and share those results?
  
@@ -114,8 +111,13 @@ For my project I will be using Excel Workbooks to clean and process each of the 
 If the sheets have any missing data, remove the entire row.
 
 
-![cleaning_tripdata_emptycells](cleaning_tripdata_emptycells.png)
-[(Cntrl + G -> Special.. -> Blank)](cleaning_tripdata_emptycells.png)
+![cleaning_tripdata_emptycells](Emptycell_tripdata_cleaning.png)
+[(Cntrl + G -> Special.. -> Blank)](Emptycell_tripdata_cleaning.png)
+
+
+#### <ins>Add new columns by using formulas
+
+
 
 
 I have cleaned the data. Combined the 12 files into 1 megafile and created new columns. A large portion of the 12 sheets, summing over 1+ GB of data, were purged from our files.
