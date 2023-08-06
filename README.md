@@ -38,7 +38,7 @@ achieve them.
 * **Cyclistic executive team:** The notoriously detail-oriented executive team will decide whether to approve the
 recommended marketing program.
 
-#### <ins>Main goal
+#### <ins>Main goal:
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to
 do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why
@@ -61,3 +61,4 @@ differently?**
 * Comprehensive: Yes, it contains all relevant information.
 * Current: Yes, it is updated monthly.
 * Cited: Yes, the data is properly referenced.
+For my project, I will be utilizing the [public dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) which is made accessible by Motivate International Inc. under a specific license. I have downloaded the data for the period between June 2022 and May 2023. The data is in CSV (comma-separated values) format and comprises a total of 13 columns. Then, I converted all CSV files to Excel format.
