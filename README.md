@@ -157,12 +157,6 @@ A large portion of the 12 sheets, summing over 1+ GB of data, were purged from o
 # Analyze
 
 
-Guiding questions
-● What surprises did you discover in the data?
-● What trends or relationships did you find in the data?
-● How will these insights help answer your business questions?
-
-
 Key tasks:
 - Aggregate the data to make it useful and accessible.
 - Organize and format the data.
@@ -194,20 +188,36 @@ I then took my two seasonal analysis sheets and merge the pivot tables and graph
 ## What have we found to answer the question: **How do annual members and casual riders use Cyclistic bikes differently?**
 
 
-In the winter of December 2022, the number of users by day of week trended higher numbers of "members" during the weekdays while "casual" riders were generally much less active through the week.
+In the winter of December 2022, the number of users trended higher numbers of "members" during the weekdays while "casual" riders were generally much less active through the week.
 
 
 ![winter_tripdata_day_of_week.png](winter_tripdata_day_of_week.png)
 [winter_tripdata_day_of_week.png](winter_tripdata_day_of_week.png)
 
 
-In the summer of June 2023, the number of users by day of week trended substantially higher numbers of "members" with a relative curve of riders during the weekdays.
+In the summer of June 2023, the number of users trended substantially higher numbers of "members" with a relative curve of riders during the weekdays.
 
 ### <ins>The "casual" riders had a very insightful *boom* of riders during the summer weekends.
 
 
 ![summer_tripdata_day_of_week.png](summer_tripdata_day_of_week.png)
 [summer_tripdata_day_of_week.png](summer_tripdata_day_of_week.png)
+
+
+# Share
+
+
+Now we have an Excel summary to present our finding and answer the question of how annual members and casual riders use Cyclistic bikes differently.
+
+
+![summary_tripdata_visual.png](summary_tripdata_visual.png)
+[summary_tripdata_visual.png](summary_tripdata_visual.png)
+
+
+From the analysis above, we can conclude that "casual" riders predominantly use the bike-sharing service on weekends in the summer season, while "members" use it throughout the week with a slight increase on weekdays.
+
+
+# Act
 
 
 
