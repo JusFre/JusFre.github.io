@@ -105,7 +105,7 @@ Now all files have been conveniently stored and organized.
 
 For my project I will be using Excel Workbooks to clean and process each of the 12 files and to achieve stakeholder deliverables. XLSX files can store more data and have a better compression algorithm, saving you space.
 
-#### <ins>Cleaning the data
+### <ins>Cleaning the data
 
 
 If the sheets have any missing data, remove the entire row.
@@ -118,14 +118,33 @@ If the sheets have any missing data, remove the entire row.
 First select all data: Cntrl + A -> Cntrl + G -> Special.. -> Blank -> OK
 
 
-#### <ins>Add new columns by using formulas
+### <ins>Add new columns by using formulas
+
+
+Create "ride_length" and "day_of_week" columns
 
 
 ![New_columns_tridata](New_columns_tridata.png)
-[()](New_columns_tridata.png)
+[New_columns_tridata](New_columns_tridata.png)
+
+
+I entered the formulas "=D2-C2" in cell N2 and "=WEEKDAY(C2,1)" in cell O2. Copied and pasted the formulas down the rest of the dataset. Also changed the cell format for time to 
+
+
+Some months might have faulty "ride_length" data filled with #######. As analyst doing our process step, I sorted and deleted these rows.
+
+
+![remove_null_tripdata](remove_null_tripdata.png)
+[remove_null_tripdata](remove_null_tripdata.png)
+
+
+I sorted the "ride_length" data from smallest to largest and found null values, then selected the rows to be deleted.
 
 
 I have cleaned the data. Combined the 12 files into 1 megafile and created new columns. A large portion of the 12 sheets, summing over 1+ GB of data, were purged from our files.
+
+
+
 
 
 I used pivot tables to sort, filter, and condense only the most essential data, then created graphs and pivot tables to achieve stakeholder deliverables. 
