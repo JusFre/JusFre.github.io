@@ -140,14 +140,18 @@ I sorted the "ride_length" data from smallest to largest and found null values, 
 ### <ins>Combine all 12 files into one megafile
 
 
-We are going to merge the 11 other sheets into the first sheet by creating new tabs at the bottom by using Power Query (Google search) or simply copying and pasting each sheet with CTRL+A -> CTRL+C -> then pasting into a new tab in the first sheet with CTRL+V. I will now have 12 tabs when finished with no blank cells, new columns added, and deleted null data. 
+We are going to merge the 11 other sheets into the first sheet by creating new tabs at the bottom by using Power Query (Google search) or simply copying and pasting each sheet with CTRL+A -> CTRL+C -> then pasting into a new tab in the first sheet with CTRL+V.
+
+I will now have 12 tabs when finished with no blank cells, new columns added, and deleted null data. 
 
 
 ![megafile_tripdata_merge.png](megafile_tripdata_merge.png)
 [megafile_tripdata_merge.png](megafile_tripdata_merge.png)
 
 
-I have cleaned the data. Combined the 12 files into 1 megafile and created new columns. A large portion of the 12 sheets, summing over 1+ GB of data, were purged from our files.
+I have cleaned and aggregated the data . Combined the 12 files into 1 megafile and created new columns.
+
+A large portion of the 12 sheets, summing over 1+ GB of data, were purged from our files.
 
 
 # Analyze
@@ -176,7 +180,6 @@ I used pivot tables to sort, filter, and condense only the most essential data, 
 First I ran a few calculations in two tabs of opposite seasons to get a better sense of the data layout.
 
 Using "=AVERAGE(N:N)", "=MAX(N:N)", and "=MODE(O:O)" I calculated the "Mean of ride length", "Max of ride length", and "Mode for day of week".
-
 Once in the winter of 12-2022 and again in the summer of 06-2023. 
 
 
@@ -186,7 +189,23 @@ Once in the winter of 12-2022 and again in the summer of 06-2023.
 * Calculate the number of rides for users by day_of_week
 
 
-I then took my two seasonal analysis sheets and merge the pivot tables and graphs into one new sheet.
+I then took my two seasonal analysis sheets and merge the pivot tables and graphs into one new sheet. 
+
+## What have we found to answer the question: **How do annual members and casual riders use Cyclistic bikes differently?**
+
+
+In the winter of December 2022, the number of users by day of week trended higher numbers of "members" during the weekdays while "casual" riders were generally much less active through the week.
+
+
+![winter_tripdata_day_of_week.png](winter_tripdata_day_of_week.png)
+[winter_tripdata_day_of_week.png](winter_tripdata_day_of_week.png)
+
+
+
+
+
+
+
 
 
 
