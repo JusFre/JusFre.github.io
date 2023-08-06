@@ -128,7 +128,7 @@ Create "ride_length" and "day_of_week" columns
 [New_columns_tridata](New_columns_tridata.png)
 
 
-I entered the formulas "=D2-C2" in cell N2 and "=WEEKDAY(C2,1)" in cell O2. Copied and pasted the formulas down the rest of the dataset. Also changed the cell format for time to 
+I entered the formulas "=D2-C2" in cell N2 and "=WEEKDAY(C2,1)" in cell O2. Copied and pasted the formulas down the rest of the dataset. Also changed the cell format for time to "37:30:55"
 
 
 Some months might have faulty "ride_length" data filled with #######. As analyst doing our process step, I sorted and deleted these rows.
