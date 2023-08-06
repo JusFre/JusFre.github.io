@@ -139,12 +139,15 @@ Some months might have faulty "ride_length" data filled with #######. As analyst
 
 
 I sorted the "ride_length" data from smallest to largest and found null values, then selected the rows to be deleted.
+Then I
+
+We are going to merge the 11 other sheets into the first sheet by creating new tabs at the bottom by using Power Query (Google search) or simply copying and pasting each sheet with CTRL+A -> CTRL+C -> then pasting into a new tab in the first sheet with CTRL+V. I will now have 12 tabs when finished with no blank cells, new columns added, and deleted null data. 
 
 
 I have cleaned the data. Combined the 12 files into 1 megafile and created new columns. A large portion of the 12 sheets, summing over 1+ GB of data, were purged from our files.
 
 
-
+# Analyze
 
 
 I used pivot tables to sort, filter, and condense only the most essential data, then created graphs and pivot tables to achieve stakeholder deliverables. 
