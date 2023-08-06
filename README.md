@@ -5,7 +5,9 @@ Welcome,
 
 As I approach the finish of my Google Data Analytics Certificate bootcamp on Coursera, It is my pleasure to present to you my final capstone project. In this case study, I will reveal the analysis of a public dataset for a fictional company provided as part of this course. For my analysis, I will utilize Excel spreadsheets for data processing and visualizations.
 
+
 ### *Who* is Cyclistic?
+
 
 #### Company overview:
 
@@ -16,7 +18,9 @@ disabilities and riders who can’t use a standard two-wheeled bike. The majorit
 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to
 commute to work each day.
 
+
 ## Scenario
+
 
 I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
@@ -47,7 +51,9 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 To approach this case study, I will adhere to the following data analysis steps: **Ask, Prepare, Process, Analyze, Share, and Act.**
 
+
 # Ask
+
 
 Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
@@ -59,6 +65,7 @@ differently?**
 
 
 # Prepare
+
 
 For my project, I will be utilizing the [public dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) which is made accessible by Motivate International Inc. under a specific [license](https://ride.divvybikes.com/data-license-agreement). I have downloaded the data for the period between July 2022 and June 2023. 
 
@@ -84,5 +91,6 @@ Now all files have been conveniently stored and organized.
 * Comprehensive: Yes, it contains all relevant information.
 * Current: Yes, it is updated monthly.
 * Cited: Yes, the data is properly referenced.
+
 
 # Process
