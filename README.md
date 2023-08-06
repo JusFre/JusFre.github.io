@@ -197,7 +197,7 @@ In the winter of December 2022, the number of users trended higher numbers of "m
 
 In the summer of June 2023, the number of users trended substantially higher numbers of "members" with a relative curve of riders during the weekdays.
 
-### <ins>The "casual" riders had a very insightful *boom* of riders during the summer weekends.
+### <ins>The "casual" riders had a very insightful *boom* of riders during the summer weekends:
 
 
 ![summer_tripdata_day_of_week.png](summer_tripdata_day_of_week.png)
@@ -221,6 +221,18 @@ From the analysis above, we can conclude that "casual" riders predominantly use 
 
 
 
+
+
+### <ins>The three top recommendations based on your analysis:
+
+* Raise the rental fees for weekend casual rides as a way to encourage a shift towards membership conversion.
+
+* Provide special price reductions and attractive bonuses to "casual" riders who transition into membership during weekends and summer periods.
+
+* Implement a time-constrained promotion for annual memberships that loosens ride limits on Fridays, Saturdays, and Sundays, recognizing the appeal of these days to "casual" cyclists.
+
+
+## **I want to express my gratitude for your effort in reviewing the analysis. Your valuable feedback means a lot to me, and I'm looking forward to any comments or suggestions you might have.**
 
 
 
