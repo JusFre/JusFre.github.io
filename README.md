@@ -60,6 +60,11 @@ differently?**
 
 # Prepare
 
+For my project, I will be utilizing the [public dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) which is made accessible by Motivate International Inc. under a specific [license](https://ride.divvybikes.com/data-license-agreement). I have downloaded the data for the period between July 2022 and June 2023. The data is in CSV (comma-separated values) format and comprises a total of 13 columns. Then, I converted all CSV files to Excel format. Now all files have been conveniently stored and organized.
+
+![Excel formatted files](https://github.com/JusFre/JusFre.github.io/assets/126374312/de2333d0-b86e-442c-b8d7-0ce2b4df150c)
+[(Excel formatted files)](https://github.com/JusFre/JusFre.github.io/blob/main/Excel%20formatted%20files.png)
+
 #### <ins>The dataset meets ROCCC criteria, as detailed below
 * Reliable: Yes, it is unbiased.
 * Original: Yes, we can locate the original public data.
@@ -67,7 +72,4 @@ differently?**
 * Current: Yes, it is updated monthly.
 * Cited: Yes, the data is properly referenced.
 
-For my project, I will be utilizing the [public dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) which is made accessible by Motivate International Inc. under a specific [license](https://ride.divvybikes.com/data-license-agreement). I have downloaded the data for the period between July 2022 and June 2023. The data is in CSV (comma-separated values) format and comprises a total of 13 columns. Then, I converted all CSV files to Excel format. Now all files have been conveniently stored and organized.
-
-![Excel formatted files](https://github.com/JusFre/JusFre.github.io/assets/126374312/de2333d0-b86e-442c-b8d7-0ce2b4df150c)
-[(Excel formatted files)](https://github.com/JusFre/JusFre.github.io/blob/main/Excel%20formatted%20files.png)
+# Process
