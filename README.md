@@ -10,7 +10,7 @@ As I approach the finish of my Google Data Analytics Certificate bootcamp on Cou
 
 ### Who is Cyclistic bike-share?
 
-<ins>Company overview:
+#### <ins>Company overview:
 
 In 2016, Cyclistic launched an impressive bike-sharing program that swiftly gained popularity. It now operates 5,824 GPS-equipped bikes from 692 Chicago stations. These bikes can be unlocked from one station and returned to any other station within the system, offering users flexibility and convenience. Cyclistic's strategy emphasizes broad consumer reach. Their diverse pricing includes single-ride, full-day passes, and annual memberships. Casual riders choose passes, while subscribers become Cyclistic members.
 
