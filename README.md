@@ -104,7 +104,7 @@ What tools are you choosing and why?
 ● How can you verify that your data is clean and ready to analyze?
 ● Have you documented your cleaning process so you can review and share those results?
  
-#### <ins>I will be using Excel Workbooks to clean and process each of the 12 files and to achieve stakeholder deliverables:
+For my project I will be using Excel Workbooks to clean and process each of the 12 files and to achieve stakeholder deliverables.
 
 * If the sheets have any missing data, remove the entire row.
 
