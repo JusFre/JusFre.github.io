@@ -1,12 +1,7 @@
 # Cyclistic bike-share
 
 
-
-
-
-
 ## How to navigate speedy success of a fictional bike-share company?
-
 
 
 ### Cyclistic bike-share case study:
@@ -26,7 +21,7 @@ disabilities and riders who can’t use a standard two-wheeled bike. The majorit
 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to
 commute to work each day.
 
-### Scenario
+## Scenario
 
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
@@ -47,3 +42,11 @@ achieve them.
 
 * **Cyclistic executive team:** The notoriously detail-oriented executive team will decide whether to approve the
 recommended marketing program.
+
+<ins>Main goal
+
+Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to
+do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why
+casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are
+interested in analyzing the Cyclistic historical bike trip data to identify trends.
+
