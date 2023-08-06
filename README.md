@@ -98,11 +98,7 @@ Now all files have been conveniently stored and organized.
 
 # Process
 
-
-● How can you verify that your data is clean and ready to analyze?
-● Have you documented your cleaning process so you can review and share those results?
  
-
 For my project I will be using Excel Workbooks to clean and process each of the 12 files and to achieve stakeholder deliverables. XLSX files can store more data and have a better compression algorithm, saving you space.
 
 ### <ins>Cleaning the data
