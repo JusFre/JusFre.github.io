@@ -4,8 +4,6 @@
 ## How to navigate speedy success of a fictional bike-share company?
 
 
-### Cyclistic bike-share case study:
-
 Welcome,
 
 As I approach the finish of my Google Data Analytics Certificate bootcamp on Coursera, It is my pleasure to present to you my final capstone project. In this case study, I will reveal the analysis of a public dataset for a fictional company provided as part of this course. For my analysis, I will utilize Excel spreadsheets for data processing and visualizations.
@@ -50,3 +48,6 @@ do that, however, the marketing analyst team needs to better understand how annu
 casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are
 interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
+To approach this case study, I will adhere to the following data analysis steps: **Ask, Prepare, Process, Analyze, Share, and Act.**
+
+##
