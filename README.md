@@ -61,4 +61,5 @@ differently?**
 * Comprehensive: Yes, it contains all relevant information.
 * Current: Yes, it is updated monthly.
 * Cited: Yes, the data is properly referenced.
-For my project, I will be utilizing the [public dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) which is made accessible by Motivate International Inc. under a specific license. I have downloaded the data for the period between June 2022 and May 2023. The data is in CSV (comma-separated values) format and comprises a total of 13 columns. Then, I converted all CSV files to Excel format.
+
+For my project, I will be utilizing the [public dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) which is made accessible by Motivate International Inc. under a specific [license](https://ride.divvybikes.com/data-license-agreement). I have downloaded the data for the period between July 2022 and June 2023. The data is in CSV (comma-separated values) format and comprises a total of 13 columns. Then, I converted all CSV files to Excel format.
