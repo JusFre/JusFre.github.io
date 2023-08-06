@@ -174,7 +174,9 @@ I used pivot tables to sort, filter, and condense only the most essential data, 
 
 
 First I ran a few calculations in two tabs of opposite seasons to get a better sense of the data layout.
+
 Using "=AVERAGE(N:N)", "=MAX(N:N)", and "=MODE(O:O)" I calculated the "Mean of ride length", "Max of ride length", and "Mode for day of week".
+
 Once in the winter of 12-2022 and again in the summer of 06-2023. 
 
 
