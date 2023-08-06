@@ -1,7 +1,8 @@
-# Cyclistic 
+# Cyclistic  
 
 
-## How to navigate speedy success of a fictional bike-share company?
+## How to navigate speedy success of a fictional bike-share company?  
+
 
 Welcome,
 
