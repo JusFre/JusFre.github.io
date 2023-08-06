@@ -154,7 +154,6 @@ I have cleaned the data. Combined the 12 files into 1 megafile and created new c
 
 
 Guiding questions
-● Has your data been properly formatted?-------
 ● What surprises did you discover in the data?
 ● What trends or relationships did you find in the data?
 ● How will these insights help answer your business questions?
@@ -170,7 +169,9 @@ Key tasks:
 I used pivot tables to sort, filter, and condense only the most essential data, then created graphs and pivot tables to achieve stakeholder deliverables. 
 
 
-![excel_summary_tripdata_visual.png](excel_summary_tripdata_visual.png)
-[excel_summary_tripdata_visual.png](excel_summary_tripdata_visual.png)
+![summary_tripdata_visual.png](summary_tripdata_visual.png)
+[summary_tripdata_visual.png](summary_tripdata_visual.png)
 
+
+First I ran a few calculations in two tabs of opposite seasons to get a better sense of the data layout. One in the summer of 07-2022 and the other in the 
 
