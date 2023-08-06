@@ -108,6 +108,8 @@ What tools are you choosing and why?
 
 For my project I will be using Excel Workbooks to clean and process each of the 12 files and to achieve stakeholder deliverables. XLSX files can store more data and have a better compression algorithm, saving you space.
 
+#### <ins>Cleaning the data
+
 
 If the sheets have any missing data, remove the entire row.
 
