@@ -153,4 +153,24 @@ I have cleaned the data. Combined the 12 files into 1 megafile and created new c
 # Analyze
 
 
+Guiding questions
+● Has your data been properly formatted?-------
+● What surprises did you discover in the data?
+● What trends or relationships did you find in the data?
+● How will these insights help answer your business questions?
+
+
+Key tasks:
+- Aggregate the data to make it useful and accessible.
+- Organize and format the data.
+- Perform calculations.
+- Identify trends and relationships.
+
+
 I used pivot tables to sort, filter, and condense only the most essential data, then created graphs and pivot tables to achieve stakeholder deliverables. 
+
+
+![Excel Summary Data Visual.png](Excel Summary Data Visual.png)
+[excel_summary_data_visual.png](Excel Summary Data Visual.png)
+
+
