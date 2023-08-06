@@ -73,7 +73,7 @@ For my project, I will be utilizing the [public dataset](https://divvy-tripdata.
 The data is in CSV (comma-separated values) format and comprises a total of 13 columns. 
 
 
-![Raw tripdata screenshot 2023/06](https://github.com/JusFre/JusFre.github.io/blob/main/202306_raw_tripdata.png)
+![Raw tripdata screenshot 2023/06](202306_raw_tripdata.png)
 [(Raw tripdata screenshot 2023/06)](https://github.com/JusFre/JusFre.github.io/blob/main/202306_raw_tripdata.png)
 
 
