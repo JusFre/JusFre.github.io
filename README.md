@@ -77,7 +77,7 @@ The data is in CSV (comma-separated values) format and comprises a total of 13 c
 
 
 ![Raw tripdata screenshot 2023/06](202306_raw_tripdata.png)
-[(Raw tripdata screenshot 2023/06)](https://github.com/JusFre/JusFre.github.io/blob/main/202306_raw_tripdata.png)
+[202306_raw_tripdata.png](https://github.com/JusFre/JusFre.github.io/blob/main/202306_raw_tripdata.png)
 
 
 Then, I converted all CSV files to Excel format. 
@@ -85,7 +85,7 @@ Now all files have been conveniently stored and organized.
 
 
 ![Excel formatted files](https://github.com/JusFre/JusFre.github.io/assets/126374312/de2333d0-b86e-442c-b8d7-0ce2b4df150c)
-[(Excel formatted files)](https://github.com/JusFre/JusFre.github.io/blob/main/Excel%20formatted%20files.png)
+[excel_formatted_files.png](https://github.com/JusFre/JusFre.github.io/blob/main/Excel%20formatted%20files.png)
 
 
 #### <ins>The dataset meets ROCCC criteria, as detailed below:
@@ -108,7 +108,7 @@ If the sheets have any missing data, remove the entire row.
 
 
 ![cleaning_tripdata_emptycells](Emptycell_tripdata_cleaning.png)
-[cleaning_tripdata_emptycells](Emptycell_tripdata_cleaning.png)
+[cleaning_tripdata_emptycells.png](Emptycell_tripdata_cleaning.png)
 
 
 First select all data: Cntrl + A -> Cntrl + G -> Special.. -> Blank -> OK.
@@ -121,7 +121,7 @@ Create "ride_length" and "day_of_week" columns.
 
 
 ![New_columns_tridata](New_columns_tridata.png)
-[New_columns_tridata](New_columns_tridata.png)
+[New_columns_tridata.png](New_columns_tridata.png)
 
 
 I entered the formulas "=D2-C2" in cell N2 and "=WEEKDAY(C2,1)" in cell O2. Copied and pasted the formulas down the rest of the dataset. Also changed the cell format for time to "37:30:55" for column N.
@@ -131,7 +131,7 @@ Some months might have faulty "ride_length" data filled with #######. As an anal
 
 
 ![remove_null_tripdata](remove_null_tripdata.png)
-[remove_null_tripdata](remove_null_tripdata.png)
+[remove_null_tripdata.png](remove_null_tripdata.png)
 
 
 I sorted the "ride_length" data from smallest to largest and found null values, then selected the rows to be deleted.
