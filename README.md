@@ -173,5 +173,19 @@ I used pivot tables to sort, filter, and condense only the most essential data, 
 [summary_tripdata_visual.png](summary_tripdata_visual.png)
 
 
-First I ran a few calculations in two tabs of opposite seasons to get a better sense of the data layout. One in the summer of 07-2022 and the other in the 
+First I ran a few calculations in two tabs of opposite seasons to get a better sense of the data layout.
+Using "=AVERAGE(N:N)", "=MAX(N:N)", and "=MODE(O:O)" I calculated the "Mean of ride length", "Max of ride length", and "Mode for day of week".
+Once in the winter of 12-2022 and again in the summer of 06-2023. 
+
+
+### <ins>Next I inserted pivot tables and inserted recommended charts to:
+* Calculate the average ride_length for members and casual riders
+* Calculate the average ride_length for users by day_of_week
+* Calculate the number of rides for users by day_of_week
+
+
+I then took my two seasonal analysis sheets and merge the pivot tables and graphs into one new sheet.
+
+
+
 
