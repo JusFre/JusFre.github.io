@@ -50,4 +50,9 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 To approach this case study, I will adhere to the following data analysis steps: **Ask, Prepare, Process, Analyze, Share, and Act.**
 
-##
+## Ask
+
+Moreno has assigned you the first question to answer: **How do annual members and casual riders use Cyclistic bikes
+differently?**
+
+
