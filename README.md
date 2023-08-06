@@ -191,8 +191,8 @@ I then took my two seasonal analysis sheets and merge the pivot tables and graph
 In the winter of December 2022, the number of users trended higher numbers of "members" during the weekdays while "casual" riders were generally much less active through the week.
 
 
-![winter_tripdata_day_of_week.png](winter_tripdata_day_of_week.png)
-[winter_tripdata_day_of_week.png](winter_tripdata_day_of_week.png)
+![tripdata_winter_day_of_week.png](tripdata_winter_day_of_week.png)
+[tripdata_winter_day_of_week.png](tripdata_winter_day_of_week.png)
 
 
 In the summer of June 2023, the number of users trended substantially higher numbers of "members" with a relative curve of riders during the weekdays.
