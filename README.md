@@ -55,7 +55,7 @@ differently?**
 
 ## Prepare
 
-#### <ins>Does your data meet all ROCCC criteria?
+#### <ins>The dataset meets ROCCC criteria, as detailed below
 * Reliable: Yes, it is unbiased.
 * Original: Yes, we can locate the original public data.
 * Comprehensive: Yes, it contains all relevant information.
