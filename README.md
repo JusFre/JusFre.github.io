@@ -56,3 +56,11 @@ Moreno has assigned you the first question to answer: **How do annual members an
 differently?**
 
 
+## Prepare
+
+**<ins>Does your data meet all ROCCC criteria?**
+* Reliable: Yes, it is unbiased.
+* Original: Yes, we can locate the original public data.
+* Comprehensive: Yes, it contains all relevant information.
+* Current: Yes, it is updated monthly.
+* Cited: Yes, the data is properly referenced.
