@@ -1,4 +1,6 @@
 # Cyclistic 
+
+
 ## How to navigate speedy success of a fictional bike-share company?
 
 Welcome,
@@ -94,3 +96,4 @@ Now all files have been conveniently stored and organized.
 
 
 # Process
+
