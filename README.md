@@ -203,7 +203,7 @@ In the winter of December 2022, the number of users by day of week trended highe
 
 In the summer of June 2023, the number of users by day of week trended substantially higher numbers of "members" with a relative curve of riders during the weekdays.
 
-The "casual" riders had a very insightful *boom* of riders during the summer weekends.
+### <ins>The "casual" riders had a very insightful *boom* of riders during the summer weekends.
 
 
 ![summer_tripdata_day_of_week.png](summer_tripdata_day_of_week.png)
