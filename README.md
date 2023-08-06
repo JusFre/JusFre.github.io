@@ -115,23 +115,23 @@ If the sheets have any missing data, remove the entire row.
 [cleaning_tripdata_emptycells](Emptycell_tripdata_cleaning.png)
 
 
-First select all data: Cntrl + A -> Cntrl + G -> Special.. -> Blank -> OK
+First select all data: Cntrl + A -> Cntrl + G -> Special.. -> Blank -> OK.
 
 
 ### <ins>Add new columns by using formulas
 
 
-Create "ride_length" and "day_of_week" columns
+Create "ride_length" and "day_of_week" columns.
 
 
 ![New_columns_tridata](New_columns_tridata.png)
 [New_columns_tridata](New_columns_tridata.png)
 
 
-I entered the formulas "=D2-C2" in cell N2 and "=WEEKDAY(C2,1)" in cell O2. Copied and pasted the formulas down the rest of the dataset. Also changed the cell format for time to "37:30:55"
+I entered the formulas "=D2-C2" in cell N2 and "=WEEKDAY(C2,1)" in cell O2. Copied and pasted the formulas down the rest of the dataset. Also changed the cell format for time to "37:30:55" for column N.
 
 
-Some months might have faulty "ride_length" data filled with #######. As analyst doing our process step, I sorted and deleted these rows.
+Some months might have faulty "ride_length" data filled with #######. As an analyst doing our process step, I sorted and deleted these rows.
 
 
 ![remove_null_tripdata](remove_null_tripdata.png)
@@ -139,9 +139,16 @@ Some months might have faulty "ride_length" data filled with #######. As analyst
 
 
 I sorted the "ride_length" data from smallest to largest and found null values, then selected the rows to be deleted.
-Then I
+
+
+### <ins>Combine all 12 files into one megafile
+
 
 We are going to merge the 11 other sheets into the first sheet by creating new tabs at the bottom by using Power Query (Google search) or simply copying and pasting each sheet with CTRL+A -> CTRL+C -> then pasting into a new tab in the first sheet with CTRL+V. I will now have 12 tabs when finished with no blank cells, new columns added, and deleted null data. 
+
+
+![megafile_tripdata_merge.png](megafile_tripdata_merge.png)
+[megafile_tripdata_merge.png](megafile_tripdata_merge.png)
 
 
 I have cleaned the data. Combined the 12 files into 1 megafile and created new columns. A large portion of the 12 sheets, summing over 1+ GB of data, were purged from our files.
