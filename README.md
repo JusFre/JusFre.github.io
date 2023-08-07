@@ -75,6 +75,10 @@ differently?**
 For my project, I will be utilizing the [public dataset](https://divvy-tripdata.s3.amazonaws.com/index.html) which is made accessible by Motivate International Inc. under a specific [license](https://ride.divvybikes.com/data-license-agreement). I have downloaded the data for the period between July 2022 and June 2023. 
 
 
+![tripdata_datasets.png](tripdata_datasets.png)
+[tripdata_datasets.png](tripdata_datasets.png)
+
+
 The data is in CSV (comma-separated values) format and comprises a total of 13 columns. 
 
 
