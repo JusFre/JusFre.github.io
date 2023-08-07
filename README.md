@@ -177,7 +177,7 @@ Using "=AVERAGE(N:N)", "=MAX(N:N)", and "=MODE(O:O)" I calculated the "Mean of r
 Once in the winter of 12-2022 and again in the summer of 06-2023. 
 
 
-### <ins>Next I inserted pivot tables and inserted recommended charts to:
+#### <ins>Next I inserted pivot tables and inserted recommended charts to:
 * Calculate the average ride_length for members and casual riders
 * Calculate the average ride_length for users by day_of_week
 * Calculate the number of rides for users by day_of_week
