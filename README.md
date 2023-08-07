@@ -3,7 +3,7 @@ Greetings,
 In a world driven by data, my journey as a data analyst has been one of continuous exploration, analysis, and transformation. With a passion for unraveling insights hidden within complex datasets, I have cultivated a deep understanding of the power of data-driven decision-making.
 
 ### Sacramento, CA | Justin Myles Freer | jfreer122333@gmail.com
-
+### [LinkedIn](www.linkedin.com/in/justin-freer)
 
 # Cyclistic
 
