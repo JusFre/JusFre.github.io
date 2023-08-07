@@ -13,7 +13,7 @@ In a world driven by data, my journey as a data analyst has been one of continuo
 ## How to navigate speedy success of a fictional bike-share company?
 
 
-August 06, 2023
+August/06/2023
 
 Welcome,
 
