@@ -229,16 +229,16 @@ From the analysis above, we can conclude that "casual" riders predominantly use 
 
 
 
-### My three top recommendations based on this analysis:
+## My three top recommendations based on this analysis:
 
-* Raise the rental fees for weekend casual rides as a way to encourage a shift towards membership conversion.
+* **Raise the rental fees for weekend casual rides as a way to encourage a shift towards membership conversion.**
 
-* Provide special price reductions and attractive bonuses to "casual" riders who transition into membership during weekends and summer periods.
+* **Provide special price reductions and attractive bonuses to "casual" riders who transition into membership during weekends and summer periods.**
 
-* Implement a time-constrained promotion for annual memberships that loosens ride limits on Fridays, Saturdays, and Sundays, recognizing the appeal of these days to "casual" cyclists.
+* **Implement a time-constrained promotion for annual memberships that loosens ride limits on Fridays, Saturdays, and Sundays, recognizing the appeal of these days to "casual" cyclists.**
 
 
-## I want to express my gratitude for your effort in reviewing the analysis. Your valuable feedback means a lot to me, and I'm looking forward to any comments or suggestions you might have.
+#### I want to express my gratitude for your effort in reviewing the analysis. Your valuable feedback means a lot to me, and I'm looking forward to any comments or suggestions you might have.
 
 
 
