@@ -1,3 +1,8 @@
+
+![Justin Freer-Headshot (1).jpeg](Justin Freer-Headshot (1).jpeg)
+[Justin Freer-Headshot](Justin Freer-Headshot (1).jpeg)
+
+
 Greetings,
 
 In a world driven by data, my journey as a data analyst has been one of continuous exploration, analysis, and transformation. With a passion for unraveling insights hidden within complex datasets, I have cultivated a deep understanding of the power of data-driven decision-making.
