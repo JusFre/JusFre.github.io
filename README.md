@@ -4,7 +4,7 @@ In a world driven by data, my journey as a data analyst has been one of continuo
 
 ### Sacramento, CA | Justin Myles Freer | jfreer122333@gmail.com
 
-<center><h2>[LinkedIn](www.linkedin.com/in/justin-freer)</h2></center>
+<center>[LinkedIn](www.linkedin.com/in/justin-freer)</center>
 
 
 # Cyclistic
