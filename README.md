@@ -1,6 +1,6 @@
 
-![Justin Freer-Headshot (1).jpeg](Justin Freer-Headshot (1).jpeg)
-[Justin Freer-Headshot](Justin Freer-Headshot (1).jpeg)
+![Justin Freer-Headshot-edit.jpeg](Justin Freer-Headshot-edit.jpeg)
+[Justin Freer-Headshot](Justin Freer-Headshot-edit.jpeg)
 
 
 Greetings,
