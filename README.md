@@ -32,7 +32,7 @@ my team will design a new marketing strategy to convert casual riders into annua
 must approve my recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 
-#### <ins>Characters and team:
+#### Characters and team:
 
 * **Lily Moreno:** The director of marketing and my manager. Moreno is responsible for the development of campaigns
 and initiatives to promote the bike-share program. These may include email, social media, and other channels.
@@ -45,7 +45,7 @@ achieve them.
 * **Cyclistic executive team:** The notoriously detail-oriented executive team will decide whether to approve the
 recommended marketing program.
 
-#### <ins>Main goal:
+#### Main goal:
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to
 do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why
@@ -88,7 +88,7 @@ Now all files have been conveniently stored and organized.
 [excel_formatted_files.png](https://github.com/JusFre/JusFre.github.io/blob/main/Excel%20formatted%20files.png)
 
 
-#### <ins>The dataset meets ROCCC criteria, as detailed below:
+#### The dataset meets ROCCC criteria, as detailed below:
 * Reliable: Yes, it is unbiased.
 * Original: Yes, we can locate the original public data.
 * Comprehensive: Yes, it contains all relevant information.
@@ -101,7 +101,7 @@ Now all files have been conveniently stored and organized.
  
 For my project I will be using Excel Workbooks to clean and process each of the 12 files and to achieve stakeholder deliverables. XLSX files can store more data and have a better compression algorithm, saving you space.
 
-### <ins>Cleaning the data
+### Cleaning the data
 
 
 If the sheets have any missing data, remove the entire row.
@@ -114,7 +114,7 @@ If the sheets have any missing data, remove the entire row.
 First select all data: Cntrl + A -> Cntrl + G -> Special.. -> Blank -> OK.
 
 
-### <ins>Add new columns by using formulas
+### Add new columns by using formulas
 
 
 Create "ride_length" and "day_of_week" columns.
@@ -137,7 +137,7 @@ Some months might have faulty "ride_length" data filled with #######. As an anal
 I sorted the "ride_length" data from smallest to largest and found null values, then selected the rows to be deleted.
 
 
-### <ins>Combine all 12 files into one megafile
+### Combine all 12 files into one megafile
 
 
 We are going to merge the 11 other sheets into the first sheet by creating new tabs at the bottom by using Power Query (Google search) or simply copying and pasting each sheet with CTRL+A -> CTRL+C -> then pasting into a new tab in the first sheet with CTRL+V.
@@ -177,7 +177,7 @@ Using "=AVERAGE(N:N)", "=MAX(N:N)", and "=MODE(O:O)" I calculated the "Mean of r
 Once in the winter of 12-2022 and again in the summer of 06-2023. 
 
 
-#### <ins>Next I inserted pivot tables and inserted recommended charts to:
+#### Next I inserted pivot tables and inserted recommended charts to:
 * Calculate the average ride_length for members and casual riders
 * Calculate the average ride_length for users by day_of_week
 * Calculate the number of rides for users by day_of_week
@@ -197,7 +197,7 @@ In the winter of December 2022, the number of users trended higher numbers of "m
 
 In the summer of June 2023, the number of users trended substantially higher numbers of "members" with a relative curve of riders during the weekdays.
 
-### <ins>The "casual" riders had a very insightful *boom* of riders during the summer weekends:
+### The "casual" riders had a very insightful *boom* of riders during the summer weekends:
 
 
 ![tripdata_summer_day_of_week.png](tripdata_summer_day_of_week.png)
@@ -223,7 +223,7 @@ From the analysis above, we can conclude that "casual" riders predominantly use 
 
 
 
-### <ins>My three top recommendations based on this analysis:
+### My three top recommendations based on this analysis:
 
 * Raise the rental fees for weekend casual rides as a way to encourage a shift towards membership conversion.
 
