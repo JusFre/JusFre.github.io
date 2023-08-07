@@ -6,7 +6,9 @@
 
 Welcome,
 
-As I approach the finish of my Google Data Analytics Certificate bootcamp on Coursera, It is my pleasure to present to you my final capstone project. In this case study, I will reveal the analysis of a public dataset for a fictional company provided as part of this course. For my analysis, I will be utilizing Excel Workbooks for data processing and visualizations.
+As I approach the finish of my Google Data Analytics Certificate bootcamp on Coursera, It is my pleasure to present to you my final capstone project. In this case study, I will reveal the analysis of a public dataset for a fictional company provided as part of this course. 
+
+For my analysis, I will be utilizing Excel Workbooks for data processing and visualizations.
 
 
 ### *Who* is Cyclistic?
